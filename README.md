@@ -1,5 +1,5 @@
 # TransferFunds
-Porject for job application in Visa
+Porject for job application at Visa
 
 ## Implementation and used technologies
 
